@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\ce25127151cbeb4c82b50254038a932e93860267\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a0f3e73d3fe2ccca578e4605fd568fa1924bf77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c356c85cd8a4148c750745deffaa26360f8e942">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b0c10d4113c5c0de72a57221b90ad0cf0a45f3f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\b4bd2ea096dcbdddca271764b714e306078cbbb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed07377f006703f96c79faf89d1fbdeaea8ceaf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\577a5c5ed587660cad078623271ebe8041891223\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c810b6ef3460fbbfd6964013b0f5be1c50f45fb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\83e5afe77de024ce53a9b8bb8914bf1df728f3ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de14ca8342f1acd311a781fbb78c9a42d5b85fdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\2f8e802c68c9f0a12c81dce094ecf7f4b0b098d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5aa36cf4db14633ebdd1940d7b254527a4fea54f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\11f9b79cc7621347fe31ec5080ea860b8feb3776\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d273f294bcc5169822517528dea86fd06a6dcd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\2067cd0d4056cf034405ce54886220e4bc01c6c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e66c642db73c4b3471d9c1d12593d2089af0c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\4cce2b2576ff8742da52540ad307503dd02183a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4d2ca665e003dda2f89c9d5baa94e67310ee778\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_02ca828fc97f72ef85bbd9e2bac7b86fdc08ab9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\d017c7f9094ea0ac52ecc0a094a6b54c99cf3409\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a73d2e9c72a42a120f6de1219fe10884e81965a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Lucas\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_49abf601921ee074c5e6e242167be9caeac98f3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\cb66adb257463aee8c90e9817840a74f4fedf276\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ac5ff32935c1215274081040c8fd1133e1ccfb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CurrencyExchangeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5938699da8270052067d8a27b542f1538901ff1a\classes.dex" />
+    </item>
+
+</items>
